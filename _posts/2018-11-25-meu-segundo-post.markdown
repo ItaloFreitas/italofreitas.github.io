@@ -4,7 +4,6 @@ title:  "Meu Segundo Post! "
 date:   2018-11-25 12:25:31 -0300
 categories: jekyll update
 ---
-
 # Meu segundo post
 
 ## Espero que agora dê certo.

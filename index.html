@@ -3,10 +3,10 @@ layout: default
 title: Italo Freitas
 ---
 
-{% if page.posts.size == 0 %}
+{% if site.posts.size == 0 %}
 	<div class="subheading mb-2">Ainda não indiquei nada.</div>
 {% else %}
-	{% for post in page.posts %}
+	{% for post in site.posts %}
 		<div class="content list">
 			<div class="list-item">
 				<h3 class="list-post-title">
