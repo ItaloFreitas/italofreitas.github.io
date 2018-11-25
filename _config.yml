@@ -23,7 +23,7 @@ github_username:  jekyll-github
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:year/:title
+permalink: /#blog/:year/:title
 theme: minima
 plugins:
   - jekyll-feed
