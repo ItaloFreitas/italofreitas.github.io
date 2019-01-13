@@ -3,8 +3,6 @@ layout: default
 title: Italo Freitas
 ---
 
-{%- include /_includes/minutes-to-read.html -%}
-
 {% if site.posts.size == 0 %}
 	<div class="subheading mb-2">Ainda não indiquei nada.</div>
 {% else %}
@@ -16,6 +14,7 @@ title: Italo Freitas
 				</h3>
 				<div class="list-post-date">
 					<time>{{post.date | date_to_string}}</time>
+					<span class="reading-time"> | 2 minutos de leitura</span>
 					<br><br>
 				</div>
 			</div>
