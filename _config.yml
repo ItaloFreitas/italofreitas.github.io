@@ -2,15 +2,15 @@
 title: Italo Freitas
 email: itallo.freitass@gmail.com
 sobremim: "Profissional de TI e entusiasta da área de Segurança da Informação. Técnico de Redes de Computadores e estudante de graduação em Sistemas de Informação pela UniFanor | Wydem. " 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "www.italofreitas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: jekyll-twitter
 github_username:  jekyll-github
 
 # Build settings
 markdown: kramdown
-permalink: :year/:title
+permalink: blog/:year/:title
 theme: minima
 plugins:
   - jekyll-feed
