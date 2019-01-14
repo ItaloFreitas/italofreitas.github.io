@@ -10,7 +10,7 @@ github_username:  jekyll-github
 
 # Build settings
 markdown: kramdown
-permalink: blog/:year/:title
+permalink: :year/:title
 theme: minima
 plugins:
   - jekyll-feed
