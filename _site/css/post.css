@@ -1,4 +1,12 @@
+h3.col-9 {
+	text-align: center;
+}
 
-h1 {
-	font-size: 200px;
+div.col-9 {
+	font-size: 20px;
+	color: black;
+}
+
+img {
+	align-content: right;
 }

@@ -3,7 +3,7 @@ title: 5 sites para se certificar sem precisar vender um rim
 layout: post
 date: 2019-01-14 12:59:57
 ---
-<center><img style=" max-width: 75%;" src="https://media.licdn.com/media/gcrc/dms/image/C4E12AQFU5zORJkYPkA/article-cover_image-shrink_600_2000/0?e=1553126400&v=beta&t=qbEArE4dJT0ofXZz3hdg4hQpzE42iQd-bpuav2AozxY"></center>
+<img style=" max-width: 100%;" src="https://media.licdn.com/media/gcrc/dms/image/C4E12AQFU5zORJkYPkA/article-cover_image-shrink_600_2000/0?e=1553126400&v=beta&t=qbEArE4dJT0ofXZz3hdg4hQpzE42iQd-bpuav2AozxY">
 
 >> Bom, quis abordar esse tema após perceber que muita gente decidiu começar o ano de 2019 dando o gás nos estudos, alguns aproveitaram aquela iniciativa relânpago da CertiProf®, ela liberou duas  certificações totalmente gratuitas, com material próprio e todo em português, deixarei os links  no final do artigo.
 
@@ -28,3 +28,5 @@ Considerações Finais
 >> Nesse artigo, não entrei na discursão do "Esse certificado é gratuito? É válido mesmo?" Acredito que todos sejam válidos sim, como forma de motivação e conhecimento própriamente dito, e não adianta você ter um certificado de $250 e na hora do vamos ver, não saber de absolutamente nada. Acredito que se você fizer tudo com ética e determinação esses certifados já valem a pena.
 >
 >> E lembrem-se, toda essa discursão que as duas certificações da CertiProf® gerou é pelo simples fato de serem gratuitas, parece que algumas pessoas não deram a real importância e só tiraram a certificação por tirar, isso não é bom. Por isso que sou sim a favor de certificações pagas, para que a pessoa realmente se esforce e não faça de qualquer jeito, acredito que essas certificações gratuitas seja uma forma de testes (por mais que sejam válidas). Espero que eu não tenha sido muito contraditório e repetitivo, qualquer dúvida estamos ai. Abraço.
+
+
